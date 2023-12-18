@@ -4,11 +4,11 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Prerequisites]
+* [Prerequisites](#Prerequisites)
 * [Features](#features)
 * [Setup](#setup)
-* [GitHub repository]
-* [Conclusions]
+* [GitHub repository](#GitHub-repository)
+* [Conclusions](#Conclusions)
 * [Contact]
 
 ## General Information
