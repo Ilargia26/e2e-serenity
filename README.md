@@ -9,7 +9,7 @@
 * [Setup](#setup)
 * [GitHub repository](#GitHub-repository)
 * [Conclusions](#Conclusions)
-* [Contact]
+* [Contact](#Contact)
 
 ## General Information
 - Create a E2E project on a e-commerce site 
